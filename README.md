@@ -28,6 +28,10 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 
 This project is apart of the Hardhat FreeCodeCamp video.
 
+## Demo
+Check out a brief demo of the "fundMe" to see it in action:
+https://drive.google.com/file/d/1m8ZMdwnqnfzQAEq9RXk_7NfSt-wOFDij/view?usp=drive_link
+
 # Getting Started
 
 ## Requirements
